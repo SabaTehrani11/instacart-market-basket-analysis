@@ -35,6 +35,7 @@ Instacart Market Basket Analysis dataset includes the following tables:
 
 Dataset: Instacart Market Basket Analysis (Kaggle).
 Raw CSV files are excluded from this repository due to GitHub file size limitations.
+[Instacart Market Basket Analysis (Kaggle)](https://www.kaggle.com/datasets/psparks/instacart-market-basket-analysis)
 
 -- ====================
 #  Tools & Technologies
